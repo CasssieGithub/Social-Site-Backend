@@ -12,10 +12,6 @@ Social Media apps are built to allow people to connect and communicate online. T
 This is the **backend** portion of the app.
 
 
-## Pictures
-- *** will enter photos when I'm done ***
-
-
 ## Technology Used
 1. Node.js
 2. Express
